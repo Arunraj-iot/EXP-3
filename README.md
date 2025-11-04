@@ -41,22 +41,24 @@ switch2.
 
 Direct connection:
 
-![WhatsApp Image 2025-10-07 at 08 10 20_fa788b21](https://github.com/user-attachments/assets/3d3ea70c-a6e0-472c-acf0-8a21412d8779)
+![bee exp 3](https://github.com/user-attachments/assets/54d52df4-04da-4712-a025-d143784dd2e3)
+
 
 CIRCUIT DIAGRAM:
 
-![WhatsApp Image 2025-10-07 at 08 10 20_3f3fa238](https://github.com/user-attachments/assets/6a7c229b-7188-4b80-b860-cc1eb72f77a8)
 
-![WhatsApp Image 2025-10-07 at 08 10 21_c10cfe48](https://github.com/user-attachments/assets/031297a2-7195-422f-9f8d-7ca0be619bc1)
+![pg 2](https://github.com/user-attachments/assets/05f72282-e55f-479f-9157-ec201c38f4e7)
 
 	
 Cross connection: 
 
-![WhatsApp Image 2025-10-07 at 08 10 23_b7cfa2f9](https://github.com/user-attachments/assets/a2f15771-079a-4b08-87a5-d6886c85429d)
+![pg 3](https://github.com/user-attachments/assets/c29f6173-2df6-41e9-8a65-18b2e7c7417d)
+
 
 CIRCUIT DIAGRAM:
 
-![WhatsApp Image 2025-10-07 at 08 10 28_b6f1ea3b](https://github.com/user-attachments/assets/3662cd4e-1723-4cc8-ba44-853eacf4942e)
+![pg 4](https://github.com/user-attachments/assets/c17d72a4-04a8-4345-98bb-ace9b2ce17a1)
+
 
 
 RESULT:
