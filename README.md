@@ -43,22 +43,11 @@ Direct connection:
 
 ![bee exp 3](https://github.com/user-attachments/assets/54d52df4-04da-4712-a025-d143784dd2e3)
 
-
-CIRCUIT DIAGRAM:
-
-
 ![pg 2](https://github.com/user-attachments/assets/05f72282-e55f-479f-9157-ec201c38f4e7)
-
-	
-Cross connection: 
 
 ![pg 3](https://github.com/user-attachments/assets/c29f6173-2df6-41e9-8a65-18b2e7c7417d)
 
-
-CIRCUIT DIAGRAM:
-
 ![pg 4](https://github.com/user-attachments/assets/c17d72a4-04a8-4345-98bb-ace9b2ce17a1)
-
 
 
 RESULT:
